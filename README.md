@@ -2,7 +2,7 @@
 
 Simple Python code with Selenium to automate form filling for [https://forms.gle/Zu1AYzvvEFwGgNSg8](https://forms.gle/Zu1AYzvvEFwGgNSg8) form
 
-> code is not properly implemented but it works ;
+> code is not properly implemented but it works ; )
 
 ### Installation and Usage
 

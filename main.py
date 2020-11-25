@@ -1,12 +1,12 @@
 from selenium import webdriver
 import random
 
-
 browser = webdriver.Firefox()
 browser.get("https://forms.gle/ryEjPAFP16XK9uPc7")
 times = 50
 try:
 	while times:
+            #Hardcoded logic
 	    test = 0
 
 	    radiobuttons = browser.find_elements_by_class_name("docssharedWizToggleLabeledLabelWrapper")
